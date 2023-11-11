@@ -29,4 +29,5 @@ When looking to create art, one of the biggest issues for me is finding inspiria
 For me, I think taking photos is easier than creating art. The main reason is because I do not visualize in my head very well, so I always have to rely on a visual aid when creating art. In photography, what you see in front of you is what you get. Yes, you can use Photoshop or AI tools to add in and change what is there, but most of my photography revolves around taking what I see and creating a mood that represents it. I have the most creative fun in post-processing because I get to work with colors and timing in the case of videos. I have also done other types of creative work, but I do not have as big of a body of work as I do for these two subjects. In my portfolio, I do have some links to some of the videos and graphic design I have done, but there is not a lot I like to display besides photography and art.
 
 If you would like to learn more about my work, use the links below:  
-[Photography](Photography.md) | [Art](Art.md) | [Portfolio](https://faithcarter.myportfolio.com/work)
+|[Photography](Photography.md) | [Art](Art.md) | [Portfolio](https://faithcarter.myportfolio.com/work)|
+| ----------- | ----------- | ----------- |
